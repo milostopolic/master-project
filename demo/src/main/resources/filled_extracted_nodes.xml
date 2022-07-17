@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xfa:data xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+        
+    <izvestaj>
+                
+        <zajednicko>
+                        
+            <tipForm>Образац за поље науке</tipForm>
+                        
+            <tasteri>
+                                
+                <izvoz xfa:dataNode="dataGroup"/>
+                                
+                <stampanje xfa:dataNode="dataGroup"/>
+                            
+            </tasteri>
+                        
+            <noviDodat>n1i2j3e4u5c6i7t8a9n0</noviDodat>
+                    
+        </zajednicko>
+                
+        <fakulteti xfa:dataNode="dataGroup"/>
+                
+        <vrstaDokRef>
+                        
+            <verzija/>
+                    
+        </vrstaDokRef>
+                
+        <vrstaDokKand>
+                        
+            <verzija/>
+                    
+        </vrstaDokKand>
+                
+        <konkursOrgan/>
+                
+        <konkursMesto/>
+                
+        <konkursDatum/>
+                
+        <konkursBroj/>
+                
+        <konkursZvanje/>
+                
+        <konkursOblast/>
+                
+        <komisijaBr>(3)</komisijaBr>
+                
+        <komisijaPred>
+                        
+            <komisijaIme/>
+                        
+            <komisijaZva/>
+                        
+            <komisijaUst/>
+                        
+            <komisijaFunk>председник</komisijaFunk>
+                        
+            <komisijaOblast/>
+                        
+            <komisijaRb>1.</komisijaRb>
+                    
+        </komisijaPred>
+                
+        <komisijaClan>
+                        
+            <komisijaIme/>
+                        
+            <komisijaUst/>
+                        
+            <komisijaFunk>члан</komisijaFunk>
+                        
+            <komisijaOblast/>
+                        
+            <komisijaRb>2.</komisijaRb>
+                    
+        </komisijaClan>
+                
+        <komisijaClan>
+                        
+            <komisijaIme/>
+                        
+            <komisijaUst/>
+                        
+            <komisijaFunk>члан</komisijaFunk>
+                        
+            <komisijaOblast/>
+                        
+            <komisijaRb>3.</komisijaRb>
+                    
+        </komisijaClan>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <idinaCvor/>
+                
+        <bioKand>
+                        
+            <podKandIme/>
+                        
+            <podKandRod/>
+                        
+            <podKandMesto/>
+                        
+            <podKandObl/>
+                        
+            <drOcena/>
+                        
+            <drFakultet/>
+                        
+            <drUnverzitet/>
+                        
+            <drProgram/>
+                        
+            <drZvanje/>
+                        
+            <drOblast/>
+                        
+            <drGodPoc/>
+                        
+            <drGodZav/>
+                        
+            <drNaziv/>
+                        
+            <mrOcena/>
+                        
+            <mrFakultet/>
+                        
+            <mrUniverzitet/>
+                        
+            <mrProgram/>
+                        
+            <mrZvanje/>
+                        
+            <mrOblast/>
+                        
+            <mrGodPoc/>
+                        
+            <mrGodZav/>
+                        
+            <mrNaslov/>
+                        
+            <osOcena/>
+                        
+            <osFakultet/>
+                        
+            <osUniverzitet/>
+                        
+            <osProgram/>
+                        
+            <osZVanje/>
+                        
+            <osOblast/>
+                        
+            <osGodPoc/>
+                        
+            <osGodZav/>
+                        
+            <osNaslov/>
+                        
+            <proftokBr>(0)</proftokBr>
+                        
+            <proftokRb>1.</proftokRb>
+                        
+            <proftokC2/>
+                        
+            <proftokC3/>
+                        
+            <proftokC4/>
+                        
+            <boravciBr>(0)</boravciBr>
+                        
+            <boravciUstanova/>
+                        
+            <boravciVrsta/>
+                        
+            <boravciMesto/>
+                        
+            <boravciPeriod/>
+                        
+            <boravciRb>1.</boravciRb>
+                        
+            <stipendijeBr>(0)</stipendijeBr>
+                        
+            <stipendijeRb>1.</stipendijeRb>
+                        
+            <stipendijeC2/>
+                        
+            <stipendijeC3/>
+                        
+            <jeziciBr>(1)</jeziciBr>
+                        
+            <jeziciRb>1.</jeziciRb>
+                        
+            <jeziciC2/>
+                        
+            <jeziciC3>. . .</jeziciC3>
+                        
+            <jeziciC4>. . .</jeziciC4>
+                        
+            <jeziciC5>. . .</jeziciC5>
+                        
+            <glavniNaslov xfa:dataNode="dataGroup"/>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М10</pubKatM>
+                                
+                <pubNazM>Монографије, монограф. студије, тематски зборници, лекс. и карт. публикације међународног значаја</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                        
+            <ikz01/>
+                        
+            <ikz02/>
+                        
+            <ikz03/>
+                        
+            <ikz04/>
+                        
+            <ikz05/>
+                        
+            <ikz06/>
+                        
+            <ikz07/>
+                        
+            <ikz08/>
+                        
+            <ikz09/>
+                        
+            <ikz010/>
+                        
+            <ikz011/>
+                        
+            <ikz012/>
+                        
+            <ikz013/>
+                        
+            <ikz014/>
+                        
+            <ikbr01/>
+                        
+            <ikbr02/>
+                        
+            <ikbr03/>
+                        
+            <ikbr04/>
+                        
+            <ikbr05/>
+                        
+            <ikbr06/>
+                        
+            <ikbr07/>
+                        
+            <ikbr08/>
+                        
+            <ikbr09/>
+                        
+            <ikbr010/>
+                        
+            <ikbr011/>
+                        
+            <ikbr012/>
+                        
+            <ikbr013/>
+                        
+            <ikbr014/>
+                        
+            <ikbo01/>
+                        
+            <ikbo02/>
+                        
+            <ikbo03/>
+                        
+            <ikbo04/>
+                        
+            <ikbo05/>
+                        
+            <ikbo06/>
+                        
+            <ikbo07/>
+                        
+            <ikbo08/>
+                        
+            <ikbo09/>
+                        
+            <ikbo010/>
+                        
+            <ikbo011/>
+                        
+            <ikbo012/>
+                        
+            <ikbo013/>
+                        
+            <ikbo014/>
+                        
+            <ikz11/>
+                        
+            <ikz12/>
+                        
+            <ikz13/>
+                        
+            <ikz14/>
+                        
+            <ikz15/>
+                        
+            <ikz16/>
+                        
+            <ikz17/>
+                        
+            <ikz18/>
+                        
+            <ikz19/>
+                        
+            <ikz110/>
+                        
+            <ikz111/>
+                        
+            <ikz112/>
+                        
+            <ikz113/>
+                        
+            <ikz114/>
+                        
+            <ikbr11/>
+                        
+            <ikbr12/>
+                        
+            <ikbr13/>
+                        
+            <ikbr14/>
+                        
+            <ikbr15/>
+                        
+            <ikbr16/>
+                        
+            <ikbr17/>
+                        
+            <ikbr18/>
+                        
+            <ikbr19/>
+                        
+            <ikbr110/>
+                        
+            <ikbr111/>
+                        
+            <ikbr112/>
+                        
+            <ikbr113/>
+                        
+            <ikbr114/>
+                        
+            <ikbo11/>
+                        
+            <ikbo12/>
+                        
+            <ikbo13/>
+                        
+            <ikbo14/>
+                        
+            <ikbo15/>
+                        
+            <ikbo16/>
+                        
+            <ikbo17/>
+                        
+            <ikbo18/>
+                        
+            <ikbo19/>
+                        
+            <ikbo110/>
+                        
+            <ikbo111/>
+                        
+            <ikbo112/>
+                        
+            <ikbo113/>
+                        
+            <ikbo114/>
+                        
+            <ikz21/>
+                        
+            <ikz22/>
+                        
+            <ikz23/>
+                        
+            <ikz24/>
+                        
+            <ikz25/>
+                        
+            <ikz26/>
+                        
+            <ikz27/>
+                        
+            <ikz28/>
+                        
+            <ikz29/>
+                        
+            <ikz210/>
+                        
+            <ikz211/>
+                        
+            <ikz212/>
+                        
+            <ikz213/>
+                        
+            <ikz214/>
+                        
+            <ikbr21/>
+                        
+            <ikbr22/>
+                        
+            <ikbr23/>
+                        
+            <ikbr24/>
+                        
+            <ikbr25/>
+                        
+            <ikbr26/>
+                        
+            <ikbr27/>
+                        
+            <ikbr28/>
+                        
+            <ikbr29/>
+                        
+            <ikbr210/>
+                        
+            <ikbr211/>
+                        
+            <ikbr212/>
+                        
+            <ikbr213/>
+                        
+            <ikbr214/>
+                        
+            <ikbo21/>
+                        
+            <ikbo22/>
+                        
+            <ikbo23/>
+                        
+            <ikbo24/>
+                        
+            <ikbo25/>
+                        
+            <ikbo26/>
+                        
+            <ikbo27/>
+                        
+            <ikbo28/>
+                        
+            <ikbo29/>
+                        
+            <ikbo210/>
+                        
+            <ikbo211/>
+                        
+            <ikbo212/>
+                        
+            <ikbo213/>
+                        
+            <ikbo214/>
+                        
+            <sumaIK/>
+                        
+            <poljeNaukeIK> Природно-математичке и медицинске науке</poljeNaukeIK>
+                        
+            <dugmeta xfa:dataNode="dataGroup"/>
+                        
+            <pubPretRb>1.</pubPretRb>
+                        
+            <pubPretNas/>
+                        
+            <pubPretKat/>
+                        
+            <sada>
+                                
+                <oblUmet>(ликовне и примењене уметности)</oblUmet>
+                                
+                <pub>
+                                        
+                    <umetKat>Јавно излагање уметничког дела на самосталним изложбама</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Јавно излагање уметничког дела на колективним жирираним изложбама и манифестацијама</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Комерцијална реализација уметничког дела</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Учествовање или вођење уметничких курсева, семинара или мајсторских радионица у земљи и иностранству</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Учешће на домаћим или међународним конкурсима уметничких дела</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Учешће у раду жирија на домаћим и страним изложбама, конкурсима и манифестацијама</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Награде и признања за уметнички рад у земљи и иностранству</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKat>Објављена теоријска или уџбеничка дела у земљи и иностранству (књиге и стручна периодика)</umetKat>
+                                        
+                    <umetKatBr>(0)</umetKatBr>
+                                        
+                    <umetRefRb>1.</umetRefRb>
+                                        
+                    <umetRefNas/>
+                                    
+                </pub>
+                            
+            </sada>
+                        
+            <pre>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Јавно излагање уметничког дела на самосталним изложбама</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Јавно излагање уметничког дела на колективним жирираним изложбама и манифестацијама</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Комерцијална реализација уметничког дела</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Учествовање или вођење уметничких курсева, семинара или мајсторских радионица у земљи и иностранству</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Учешће на домаћим или међународним конкурсима уметничких дела</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Учешће у раду жирија на домаћим и страним изложбама, конкурсима и манифестацијама</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Награде и признања за уметнички рад у земљи и иностранству</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                                
+                <pub>
+                                        
+                    <umetKatPret>Објављена теоријска или уџбеничка дела у земљи и иностранству (књиге и стручна периодика)</umetKatPret>
+                                        
+                    <umetKatBrPret>(0)</umetKatBrPret>
+                                        
+                    <umetRefRbPret>1.</umetRefRbPret>
+                                        
+                    <umetRefNasPret/>
+                                    
+                </pub>
+                            
+            </pre>
+                        
+            <brRefUmetPre>0</brRefUmetPre>
+                        
+            <brRefUmetSad>0</brRefUmetSad>
+                        
+            <brKatUmetPre>0</brKatUmetPre>
+                        
+            <brKatUmetSad>0</brKatUmetSad>
+                        
+            <najcitRb>1.</najcitRb>
+                        
+            <najcitNas/>
+                        
+            <najcitBrcit/>
+                        
+            <najcitRb>2.</najcitRb>
+                        
+            <najcitNas/>
+                        
+            <najcitBrcit/>
+                        
+            <najcitRb>3.</najcitRb>
+                        
+            <najcitNas/>
+                        
+            <najcitBrcit/>
+                        
+            <ucitRb>1.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>2.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>3.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>4.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>5.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>6.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>7.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>8.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>9.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ucitRb>10.</ucitRb>
+                        
+            <ucitNas/>
+                        
+            <ucitKat/>
+                        
+            <ukupnoCit>0</ukupnoCit>
+                        
+            <ukupnoHetcit>0</ukupnoHetcit>
+                        
+            <priznanjaBr>(0)</priznanjaBr>
+                        
+            <priznanjaRb>1.</priznanjaRb>
+                        
+            <priznanjaPriz/>
+                        
+            <priznanjaGod/>
+                        
+            <pristupTema/>
+                        
+            <pristupUstanova/>
+                        
+            <pristupOblast/>
+                        
+            <pristupDatum/>
+                        
+            <pristupOcena/>
+                        
+            <pristupnoIme/>
+                        
+            <pristupnoUst/>
+                        
+            <pristupnoRb>1.</pristupnoRb>
+                        
+            <pristupnoObl/>
+                        
+            <pristupnoZva/>
+                        
+            <pristupnoIme/>
+                        
+            <pristupnoUst/>
+                        
+            <pristupnoRb>2.</pristupnoRb>
+                        
+            <pristupnoObl/>
+                        
+            <pristupnoZva/>
+                        
+            <pristupnoIme/>
+                        
+            <pristupnoUst/>
+                        
+            <pristupnoRb>3.</pristupnoRb>
+                        
+            <pristupnoObl/>
+                        
+            <pristupnoZva/>
+                        
+            <izvodNastBr>(0)</izvodNastBr>
+                        
+            <izvodNastPred/>
+                        
+            <izvodNastUstan/>
+                        
+            <izvodNastRb>1.</izvodNastRb>
+                        
+            <izvodNastBroj/>
+                        
+            <izvodNastStud/>
+                        
+            <izvodNastProg/>
+                        
+            <izvodNastOcena/>
+                        
+            <izvodNastTip>. . .</izvodNastTip>
+                        
+            <udzbeniciBr>(0)</udzbeniciBr>
+                        
+            <udzbeniciNas/>
+                        
+            <udzbeniciAut/>
+                        
+            <udzbeniciRb>1.</udzbeniciRb>
+                        
+            <udzbeniciISBN/>
+                        
+            <udzbeniciIzd/>
+                        
+            <udzbeniciTip/>
+                        
+            <izvodNastInoBr>(0)</izvodNastInoBr>
+                        
+            <spisakPredIno>
+                                
+                <izvodNastInoRb>1.</izvodNastInoRb>
+                                
+                <izvodNastInoPred/>
+                                
+                <izvodNastInoUniv/>
+                                
+                <izvodNastInoPeriod/>
+                                
+                <izvodNastInoProg/>
+                                
+                <izvodNastInoNivo/>
+                            
+            </spisakPredIno>
+                        
+            <priznanjaDidBr>(0)</priznanjaDidBr>
+                        
+            <priznanjaDidRb>1.</priznanjaDidRb>
+                        
+            <priznanjaDidNaziv/>
+                        
+            <priznanjaDidGodina/>
+                        
+            <mentKomOs>0</mentKomOs>
+                        
+            <mentKomMs>0</mentKomMs>
+                        
+            <mentKomSp>0</mentKomSp>
+                        
+            <mentKomDr>0</mentKomDr>
+                        
+            <mentKomSuma>0</mentKomSuma>
+                        
+            <ucKomOs>0</ucKomOs>
+                        
+            <ucKomMs>0</ucKomMs>
+                        
+            <ucKomSp>0</ucKomSp>
+                        
+            <ucKomDr>0</ucKomDr>
+                        
+            <ucKomSuma>0</ucKomSuma>
+                        
+            <kandMozeDokt>0</kandMozeDokt>
+                        
+            <obPodmlNaslov/>
+                        
+            <obPodmlStudent/>
+                        
+            <obPodmlOblast/>
+                        
+            <obPodmlRb>1.</obPodmlRb>
+                        
+            <obPodmlFakultet/>
+                        
+            <obPodmlDatum/>
+                        
+            <obPomdlNivo/>
+                        
+            <projektiBr>(0)</projektiBr>
+                        
+            <projektiNaz/>
+                        
+            <projektiUst/>
+                        
+            <projektiVrst/>
+                        
+            <projektiRb>1.</projektiRb>
+                        
+            <projektiRuk/>
+                        
+            <projektiPer/>
+                        
+            <projektiDrugUni>0</projektiDrugUni>
+                        
+            <skupoviBr>(0)</skupoviBr>
+                        
+            <skupoviRb>1.</skupoviRb>
+                        
+            <skupoviNaziv/>
+                        
+            <skupoviFunk/>
+                        
+            <skupoviGod/>
+                        
+            <zaglavlje>
+                                
+                <uredniciBr>(0)</uredniciBr>
+                            
+            </zaglavlje>
+                        
+            <uredniciRb>1.</uredniciRb>
+                        
+            <uredniciNaziv/>
+                        
+            <uredniciPeriod/>
+                        
+            <recenzijeBr>(0)</recenzijeBr>
+                        
+            <recenzijeRb>1.</recenzijeRb>
+                        
+            <recenzijeTip>рецензија</recenzijeTip>
+                        
+            <recenzijeNaz/>
+                        
+            <organiBr>(0)</organiBr>
+                        
+            <organiRb>1.</organiRb>
+                        
+            <organiOrg/>
+                        
+            <organiFak/>
+                        
+            <OrganiPer/>
+                        
+            <realprogBr>(0)</realprogBr>
+                        
+            <realprogRb>1.</realprogRb>
+                        
+            <realprogNaz/>
+                        
+            <realprogGod/>
+                        
+            <clanstvaBr>(0)</clanstvaBr>
+                        
+            <clanstvaRb>1.</clanstvaRb>
+                        
+            <clanstvaNaziv/>
+                        
+            <clanstvaFunkc>члан</clanstvaFunkc>
+                        
+            <odboriBr>(0)</odboriBr>
+                        
+            <odboriRb>1.</odboriRb>
+                        
+            <odboriTelo/>
+                        
+            <odboriFunk/>
+                        
+            <odboriGod/>
+                        
+            <strategijeBr>(0)</strategijeBr>
+                        
+            <strategijeRb>1.</strategijeRb>
+                        
+            <strategijeNaziv/>
+                        
+            <strategijeGod/>
+                        
+            <komIzborBr>(0)</komIzborBr>
+                        
+            <komIzborBrPom>0</komIzborBrPom>
+                        
+            <popularBr>(0)</popularBr>
+                        
+            <popularRb>1.</popularRb>
+                        
+            <popularAkt/>
+                        
+            <popularGod/>
+                        
+            <volonterBr>(0)</volonterBr>
+                        
+            <volonterRb>1.</volonterRb>
+                        
+            <volonterNaziv/>
+                        
+            <volonterGod/>
+                        
+            <analizaRadaKand/>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М20</pubKatM>
+                                
+                <pubNazM>Радови и научне критике у часописима међународног значаја, уређивање часописа међународног значаја</pubNazM>
+                                
+                <pubMBr>(9)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Information Retrieval Using a Middleware Approach</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>XML Editor for Search and Retrieval of Bibliographic Records in the Z39.50 Standard</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>3.</pubRb>
+                <pubNas>Mixed approach in creating a university union catalogue</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>4.</pubRb>
+                <pubNas>Business Intelligence in the Service of Libraries</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>5.</pubRb>
+                <pubNas>Multitarget/multiprotocol client application for search and retrieval of bibliographic records</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>6.</pubRb>
+                <pubNas>Retrieval of bibliographic records using Apache Lucene</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>7.</pubRb>
+                <pubNas>Inventory of a library collection using Android application</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>8.</pubRb>
+                <pubNas>RealForAll: Real-time System for Automatic Detection of Airborne Pollen</pubNas>
+                <pubKat>M22</pubKat>
+                <pubRb>9.</pubRb>
+                <pubNas>Web service for connecting visually impaired people with libraries</pubNas>
+                <pubKat>M23</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М30</pubKatM>
+                                
+                <pubNazM>Научни скупови међународног значаја</pubNazM>
+                                
+                <pubMBr>(12)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Korisnički interfejs za pretraživanje bibliografskih zapisa po Z39.50 standardu</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>Applying MDA in developing intermediary service for data retrieval</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>3.</pubRb>
+                <pubNas>Generating library material reports in software system BISIS</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>4.</pubRb>
+                <pubNas>Client/server communication for library management systems in different network environments</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>5.</pubRb>
+                <pubNas>Intermediary Service for Electronic Material Retrieval from Libraries</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>6.</pubRb>
+                <pubNas>Improving Library Services using Business Intelligence</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>7.</pubRb>
+                <pubNas>Teaching Object-Oriented Modelling Using UML</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>8.</pubRb>
+                <pubNas>BISIS Software as a Service</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>9.</pubRb>
+                <pubNas>Usage of Data Warehouse  for Analysing Software’s  Bugs</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>10.</pubRb>
+                <pubNas>LINKING VISUALLY IMPAIRED PEOPLE TO LIBRARIES</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>11.</pubRb>
+                <pubNas>DSL for web application development</pubNas>
+                <pubKat>M33</pubKat>
+                <pubRb>12.</pubRb>
+                <pubNas>From traditional to containerized system architecture</pubNas>
+                <pubKat>M33</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М40</pubKatM>
+                                
+                <pubNazM>Монографије, монограф. студије, тематски зборници, лекс. и карт. публикације националног значаја</pubNazM>
+                                
+                <pubMBr>(2)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Pretraživanje i preuzimanje bibliografskih zapisa</pubNas>
+                <pubKat>M42</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>Преузимање библиографских записа по Z39.50 стандарду</pubNas>
+                <pubKat>M44</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М50</pubKatM>
+                                
+                <pubNazM>Радови и научне критике у часописима националног значаја, уређивање часописа националног значаја</pubNazM>
+                                
+                <pubMBr>(5)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Z39.50 Kлијентска апликација за преузимање библиографских записа</pubNas>
+                <pubKat>M52</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>Servis bibliotečkog softverskog sistema BISIS za mobilne uređaje</pubNas>
+                <pubKat>M52</pubKat>
+                <pubRb>3.</pubRb>
+                <pubNas>XML in the BISIS Library Management System</pubNas>
+                <pubKat>M52</pubKat>
+                <pubRb>4.</pubRb>
+                <pubNas>Претраживање и преузимање библиографских записа</pubNas>
+                <pubKat>M53</pubKat>
+                <pubRb>5.</pubRb>
+                <pubNas>Experience in Teaching OOAD to Various Students</pubNas>
+                <pubKat>M53</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М60</pubKatM>
+                                
+                <pubNazM>Научни скупови националног значаја, преводи, стручне редакције</pubNazM>
+                                
+                <pubMBr>(6)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Obrada XML dokumenata nastavnih planova</pubNas>
+                <pubKat>M63</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>Implementacija editora za preuzimanje bibliografskih zapisa</pubNas>
+                <pubKat>M63</pubKat>
+                <pubRb>3.</pubRb>
+                <pubNas>Editori za preuzimanje bibliografskih zapisa po Z39.50 standardu</pubNas>
+                <pubKat>M63</pubKat>
+                <pubRb>4.</pubRb>
+                <pubNas>XML SCHEMA OF QUERY LANGUAGE DEFINED BY Z39.50 STANDARD</pubNas>
+                <pubKat>M63</pubKat>
+                <pubRb>5.</pubRb>
+                <pubNas>Migracija podataka o bibliografskim zapisima u dokumente</pubNas>
+                <pubKat>M63</pubKat>
+                <pubRb>6.</pubRb>
+                <pubNas>Indexing and searching bibliographic records in library information system BISIS</pubNas>
+                <pubKat>M64</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М70</pubKatM>
+                                
+                <pubNazM>Дисертације</pubNazM>
+                                
+                <pubMBr>(2)</pubMBr>
+                                
+                
+                
+            
+                <pubRb>1.</pubRb>
+                <pubNas>Софтверски систем за преузимање библиографских записа</pubNas>
+                <pubKat>M71</pubKat>
+                <pubRb>2.</pubRb>
+                <pubNas>XML editor za preuzimanje bibliografskih zapisa</pubNas>
+                <pubKat>M72</pubKat>
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М80</pubKatM>
+                                
+                <pubNazM>Техничка решења</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М90</pubKatM>
+                                
+                <pubNazM>Патенти</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М100</pubKatM>
+                                
+                <pubNazM>Изведена дела, награде, студије, изложбе</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М110</pubKatM>
+                                
+                <pubNazM>Изведена дела, награде, студије, изложбе</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                        
+            <pubMovi>
+                                
+                <pubKatM>М120</pubKatM>
+                                
+                <pubNazM>Документи припремљени у вези са креирањем и анализом јавних политика</pubNazM>
+                                
+                <pubMBr>(0)</pubMBr>
+                                
+                <pubRb>1.</pubRb>
+                                
+                <pubNas/>
+                                
+                <pubKat/>
+                            
+            </pubMovi>
+                    
+        </bioKand>
+                
+        <pred>Председник комисије</pred>
+                
+        <clan>Члан комисије</clan>
+                
+        <clan>Члан комисије</clan>
+            
+    </izvestaj>
+    
+</xfa:data>

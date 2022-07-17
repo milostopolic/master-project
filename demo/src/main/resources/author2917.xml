@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cris_results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://cris.uns.ac.rs/interoperability/sema-cris.xsd">
+	<ruleBook>Правилник о поступку и начину вредновања, и квантитативном исказивању научноистраживачких резултата истраживача</ruleBook>
+	<apvnt>2917</apvnt>
+	<theses>
+		<identifier>(BISIS)6003</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M72</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>XML editor za preuzimanje bibliografskih zapisa</title>
+		<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+		<year>2007</year>
+		<thesesType>Магистарска теза</thesesType>
+		<author>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</author>
+		<advisors>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</advisors>
+		<boardMembers>
+			<researcher>
+				<identifier>(BISIS)791</identifier>
+				<apvnt>1269</apvnt>
+				<lastname>Racković</lastname>
+				<firstname>Miloš</firstname>
+				<position>Redovni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)152</identifier>
+				<lastname>Konjović</lastname>
+				<firstname>Zora</firstname>
+				<position>Redovni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+		</boardMembers>
+	</theses>
+	<monograph>
+		<identifier>(BISIS)16803</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M42</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Pretraživanje i preuzimanje bibliografskih zapisa</title>
+		<year>2011</year>
+		<numberOfPages>80</numberOfPages>
+		<isbn>9788672449228</isbn>
+		<publisher>Zadužbina Andrejević, Beograd, Srbija</publisher>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</monograph>
+	<paperConference>
+		<identifier>(BISIS)5064</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Korisnički interfejs za pretraživanje bibliografskih zapisa po Z39.50 standardu</title>
+		<year>2009</year>
+		<startPage>543</startPage>
+		<endPage>558</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)4199</identifier>
+			<name>Међународна научна конференција Електронска библиотека</name>
+			<place>Београд</place>
+			<year>2008</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)4200</identifier>
+			<title>Зборник радова, Међународна научна конференција Електронска библиотека</title>
+			<year>2009</year>
+			<isbn>978-86-86419-70-5</isbn>
+			<publisher>Филолошки факултет Универзитета у Београду, Београд, Србија</publisher>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)5510</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M63</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Obrada XML dokumenata nastavnih planova</title>
+		<year>2006</year>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)5403</identifier>
+			<name>YU INFO</name>
+			<year>2006</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)5404</identifier>
+			<title>YU INFO</title>
+			<year>2006</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)5511</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M63</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Implementacija editora za preuzimanje bibliografskih zapisa</title>
+		<year>2007</year>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)5407</identifier>
+			<name>YU INFO</name>
+			<year>2007</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)5408</identifier>
+			<title>YU INFO</title>
+			<year>2007</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)5512</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M63</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Editori za preuzimanje bibliografskih zapisa po Z39.50 standardu</title>
+		<year>2007</year>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)5407</identifier>
+			<name>YU INFO</name>
+			<year>2007</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)5408</identifier>
+			<title>YU INFO</title>
+			<year>2007</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)82162</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Applying MDA in developing intermediary service for data retrieval</title>
+		<year>2012</year>
+		<startPage>25</startPage>
+		<endPage>29</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)76724</identifier>
+			<name>Balkan Conference in Informatics</name>
+			<place>Novi Sad</place>
+			<year>2012</year>
+			<number>5th</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)76725</identifier>
+			<title>Proceedings of the Fifth Balkan Conference in Informatics</title>
+			<year>2012</year>
+			<isbn>978-1-4503-1240-0</isbn>
+			<publisher>ACM, New York, USA</publisher>
+			<editors>
+				<researcher>
+					<identifier>(BISIS)1069</identifier>
+					<apvnt>1192</apvnt>
+					<lastname>Ivanović</lastname>
+					<middlename>Redovni profesor</middlename>
+					<firstname>Mirjana</firstname>
+					<position>Redovni profesor</position>
+					<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)559</identifier>
+					<apvnt>1162</apvnt>
+					<lastname>Budimac</lastname>
+					<middlename>Dušan</middlename>
+					<firstname>Zoran</firstname>
+					<position>Redovni profesor</position>
+					<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+				</researcher>
+			</editors>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<theses>
+		<identifier>(BISIS)6742</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M71</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Софтверски систем за преузимање библиографских записа</title>
+		<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+		<year>2010</year>
+		<publisher>Autorski reprint, Novi Sad, Srbija</publisher>
+		<doi>10.2298/NS20100702BOBERIC</doi>
+		<thesesType>Докторска дисертација</thesesType>
+		<author>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Боберић</lastname>
+				<firstname>Данијела</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</author>
+		<advisors>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</advisors>
+		<boardMembers>
+			<researcher>
+				<identifier>(BISIS)791</identifier>
+				<apvnt>1269</apvnt>
+				<lastname>Racković</lastname>
+				<firstname>Miloš</firstname>
+				<position>Redovni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)83440</identifier>
+				<lastname>Marjanović</lastname>
+				<firstname>Zoran</firstname>
+				<position>Redovni profesor</position>
+				<institution>Fakultet organizacionih nauka u Beogradu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)152</identifier>
+				<lastname>Konjović</lastname>
+				<firstname>Zora</firstname>
+				<position>Redovni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</boardMembers>
+	</theses>
+	<paperConference>
+		<identifier>(BISIS)5065</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M64</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Indexing and searching bibliographic records in library information system BISIS</title>
+		<year>2008</year>
+		<startPage>73</startPage>
+		<endPage>73</endPage>
+		<paperType>Саопштење са скупа штампано у изводу</paperType>
+		<conference>
+			<identifier>(BISIS)4519</identifier>
+			<name>12th Serbian Mathematical Congress</name>
+			<year>2008</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)4520</identifier>
+			<title>Proceedings - 12th Serbian Mathematical Congress</title>
+			<year>2008</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperJournal>
+		<identifier>(BISIS)6756</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M52</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Z39.50 Kлијентска апликација за преузимање библиографских записа</title>
+		<year>2010</year>
+		<volume>36</volume>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)2807</identifier>
+			<title>Часопис за информационе технологије и мултимедијалне системе - Info m</title>
+			<issn>1451-4397</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Боберић-Крстићев</lastname>
+				<firstname>Данијела</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)82696</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Information Retrieval Using a Middleware Approach</title>
+		<year>2013</year>
+		<startPage>54</startPage>
+		<endPage>69</endPage>
+		<volume>32</volume>
+		<number>1</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)38040</identifier>
+			<title>Information Technology and Libraries</title>
+			<issn>0730-9295</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)82166</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M53</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Претраживање и преузимање библиографских записа</title>
+		<year>2011</year>
+		<startPage>59</startPage>
+		<endPage>62</endPage>
+		<number>19</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)70788</identifier>
+			<title>Čitalište</title>
+			<issn>2217-5555(pISSN);2217-5563(eISSN)</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<monograph>
+		<identifier>(BISIS)5237</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M44</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Преузимање библиографских записа по Z39.50 стандарду</title>
+		<year>2007</year>
+		<publisher>Природно-математички факултет, Нови Сад</publisher>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Боберић</lastname>
+				<firstname>Данијела</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Сурла</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Душан</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</monograph>
+	<paperConference>
+		<identifier>(BISIS)6275</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Generating library material reports in software system BISIS</title>
+		<year>2009</year>
+		<startPage>133</startPage>
+		<endPage>137</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)4609</identifier>
+			<name>4th International Conference on Engineering Technolgies, ICET 2009</name>
+			<place>Novi Sad</place>
+			<year>2009</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)4610</identifier>
+			<title>Proceedings of the 4th International Conference on Engineering Technolgies, ICET 2009</title>
+			<year>2009</year>
+			<isbn>978-86-7892-161-2</isbn>
+			<publisher>Faculty of Technical Sciences, Novi Sad, Novi Sad, Srbija</publisher>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)5513</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M63</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>XML SCHEMA OF QUERY LANGUAGE DEFINED BY Z39.50 STANDARD</title>
+		<year>2007</year>
+		<startPage>107</startPage>
+		<endPage>114</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)5393</identifier>
+			<name>XVII Conference on Applied Mathematics - PRIM 2006</name>
+			<place>Kragujevac</place>
+			<year>2006</year>
+			<number>17</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)5394</identifier>
+			<title>XVII Conference on Applied Mathematics - PRIM 2006</title>
+			<year>2007</year>
+			<publisher>Prirodno-matematički fakultet, Novi Sad, Srbija</publisher>
+			<editors>
+				<researcher>
+					<identifier>(BISIS)1792</identifier>
+					<apvnt>1187</apvnt>
+					<lastname>Herceg</lastname>
+					<middlename>Redovni profesor</middlename>
+					<firstname>Đorđe</firstname>
+					<position>Redovni profesor</position>
+					<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)1286</identifier>
+					<apvnt>2279</apvnt>
+					<lastname>Zarin</lastname>
+					<middlename>Miloš</middlename>
+					<firstname>Helena</firstname>
+					<position>Redovni profesor</position>
+					<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+				</researcher>
+			</editors>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)83411</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Client/server communication for library management systems in different network environments</title>
+		<year>2013</year>
+		<startPage>75</startPage>
+		<endPage>81</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)83409</identifier>
+			<name>Balkan Conference in Informatics</name>
+			<place>Thessaloniki</place>
+			<year>2013</year>
+			<number>6</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)83410</identifier>
+			<title>Proceedings of the Sixht Balkan Conference in Informatics</title>
+			<year>2013</year>
+			<publisher>The Association for Computing Machinery (ACM)</publisher>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)91737</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Intermediary Service for Electronic Material Retrieval from Libraries</title>
+		<year>2014</year>
+		<startPage>127</startPage>
+		<endPage>135</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)91735</identifier>
+			<name>The Third International Conference on Informatics Engineering and Information Science</name>
+			<place>Lodz</place>
+			<country>Poland</country>
+			<year>2014</year>
+			<number>3</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)91736</identifier>
+			<title>Proceeding of the Third International Conference on Informatics Engineering and Information Science</title>
+			<year>2014</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)110283</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Improving Library Services using Business Intelligence</title>
+		<year>2018</year>
+		<startPage>44</startPage>
+		<endPage>47</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)107783</identifier>
+			<name>Proceedings of the 8th International Conference on Information Society and Technology</name>
+			<place>Kopaonik</place>
+			<country>Srbija</country>
+			<year>2018</year>
+			<number>1</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)107784</identifier>
+			<title>Proceedings of the 8th International Conference on Information Society and Technology</title>
+			<year>2018</year>
+			<publisher>Society for information systems and computer networks</publisher>
+			<editors>
+				<researcher>
+					<identifier>(BISIS)152</identifier>
+					<lastname>Konjović</lastname>
+					<firstname>Zora</firstname>
+					<position>Redovni profesor</position>
+					<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)74357</identifier>
+					<lastname>Zdravković</lastname>
+					<firstname>Milan</firstname>
+					<position>Naučni savetnik</position>
+					<institution></institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)90861</identifier>
+					<lastname>Trajanović</lastname>
+					<firstname>Miroslav</firstname>
+					<position>Redovni profesor</position>
+					<institution></institution>
+				</researcher>
+			</editors>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)24294</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Teaching Object-Oriented Modelling Using UML</title>
+		<year>2011</year>
+		<startPage>810</startPage>
+		<endPage>812</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)24292</identifier>
+			<name>Symposium on Computer Languages, Implementations and Tools</name>
+			<place>Greece, Halkidiki, Kassandra</place>
+			<year>2011</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)24293</identifier>
+			<title>AIP Conference Proceedings</title>
+			<year>2011</year>
+			<publisher>American Institute of Physics, Melville, USA</publisher>
+			<editors>
+				<researcher>
+					<identifier>(BISIS)559</identifier>
+					<apvnt>1162</apvnt>
+					<lastname>Budimac</lastname>
+					<middlename>Dušan</middlename>
+					<firstname>Zoran</firstname>
+					<position>Redovni profesor</position>
+					<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+				</researcher>
+			</editors>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)111239</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>BISIS Software as a Service</title>
+		<year>2019</year>
+		<startPage>58</startPage>
+		<endPage>61</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)111237</identifier>
+			<name>9th International Conference on Information Society and Technology – ICIST 2019</name>
+			<place>Kopaonik</place>
+			<country>Serbia</country>
+			<year>2019</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)111238</identifier>
+			<title>Proceedings of the 9th International Conference on Information Society and Technology</title>
+			<year>2019</year>
+			<publisher>Society for Information Systems and Computer Networks</publisher>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperJournal>
+		<identifier>(BISIS)3852</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>XML Editor for Search and Retrieval of Bibliographic Records in the Z39.50 Standard</title>
+		<year>2009</year>
+		<startPage>474</startPage>
+		<endPage>495</endPage>
+		<volume>27</volume>
+		<number>3</number>
+		<doi>10.1108/02640470910966916</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)3035</identifier>
+			<title>Electronic Library</title>
+			<issn>0264-0473</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)91738</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Mixed approach in creating a university union catalogue</title>
+		<year>2015</year>
+		<startPage>970</startPage>
+		<endPage>989</endPage>
+		<volume>33</volume>
+		<number>6</number>
+		<doi>10.1108/EL-02-2014-0026</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)3035</identifier>
+			<title>Electronic Library</title>
+			<issn>0264-0473</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)94340</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M23</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Web service for connecting visually impaired people with libraries</title>
+		<year>2015</year>
+		<startPage>230</startPage>
+		<endPage>243</endPage>
+		<volume>67</volume>
+		<number>2</number>
+		<doi>10.1108/AJIM-11-2014-0149</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)94339</identifier>
+			<title>Aslib Journal of Information Management</title>
+			<issn>2050-3806</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)82697</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M53</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Experience in Teaching OOAD to Various Students</title>
+		<year>2013</year>
+		<startPage>43</startPage>
+		<endPage>57</endPage>
+		<volume>12</volume>
+		<number>1</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)2815</identifier>
+			<title>Informatics in Education</title>
+			<issn>1648-5831</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)113155</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Business Intelligence in the Service of Libraries</title>
+		<year>2019</year>
+		<startPage>98</startPage>
+		<endPage>113</endPage>
+		<volume>38</volume>
+		<number>4</number>
+		<doi>https://doi.org/10.6017/ital.v38i4.10599</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)38040</identifier>
+			<title>Information Technology and Libraries</title>
+			<issn>0730-9295</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperConference>
+		<identifier>(BISIS)104136</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Usage of Data Warehouse  for Analysing Software’s  Bugs</title>
+		<year>2016</year>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)104090</identifier>
+			<name>International Conference of Numerical Analysis and Applied Mathematics ICNAAM2016, 6th Symposium on Computer Languages, Implementations and Tools (SCLIT)</name>
+			<place>Rhodos</place>
+			<country>Greece</country>
+			<year>2016</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)104133</identifier>
+			<title>International Conference of Numerical Analysis and Applied Mathematics ICNAAM2016</title>
+			<year>2016</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)104135</identifier>
+				<lastname>Danijel</lastname>
+				<firstname>Živanov</firstname>
+				<institution></institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)104134</identifier>
+				<lastname>Duško</lastname>
+				<firstname>Mirković</firstname>
+				<institution></institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)5515</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M63</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Migracija podataka o bibliografskim zapisima u dokumente</title>
+		<year>2006</year>
+		<numberOfPages>5</numberOfPages>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)5403</identifier>
+			<name>YU INFO</name>
+			<year>2006</year>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)5404</identifier>
+			<title>YU INFO</title>
+			<year>2006</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5514</identifier>
+				<apvnt>3115</apvnt>
+				<lastname>Dimić</lastname>
+				<firstname>Bojana</firstname>
+				<position>Docent</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)83414</identifier>
+		<evaluation>
+			<commission>Департман за математику и информатику</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>LINKING VISUALLY IMPAIRED PEOPLE TO LIBRARIES</title>
+		<year>2013</year>
+		<startPage>212</startPage>
+		<endPage>217</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)83412</identifier>
+			<name>International Conference on Information Society Technology and Management</name>
+			<place>Kopaonik</place>
+			<year>2013</year>
+			<number>3</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)83413</identifier>
+			<title>Proceedings of International Conference on Information Society Technology and Management</title>
+			<year>2013</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)104175</identifier>
+		<evaluation>
+			<commission>PMF</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Природно-математички факултет</scientificField>
+		</evaluation>
+		<title>DSL for web application development</title>
+		<year>2016</year>
+		<startPage>174</startPage>
+		<endPage>178</endPage>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)100336</identifier>
+			<name>International Conference on Information Society and Techology</name>
+			<place>Kopaonik</place>
+			<country>Serbia</country>
+			<year>2016</year>
+			<number>6</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)104164</identifier>
+			<title>6th International Conference on Information Society and Technology</title>
+			<year>2016</year>
+			<isbn>978-86-85525-18-6</isbn>
+			<publisher>Society for Information Systems and Computer Networks, Srbija</publisher>
+			<editors>
+				<researcher>
+					<identifier>(BISIS)74357</identifier>
+					<lastname>Zdravković</lastname>
+					<firstname>Milan</firstname>
+					<position>Naučni savetnik</position>
+					<institution></institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)90861</identifier>
+					<lastname>Trajanović</lastname>
+					<firstname>Miroslav</firstname>
+					<position>Redovni profesor</position>
+					<institution></institution>
+				</researcher>
+				<researcher>
+					<identifier>(BISIS)152</identifier>
+					<lastname>Konjović</lastname>
+					<firstname>Zora</firstname>
+					<position>Redovni profesor</position>
+					<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+				</researcher>
+			</editors>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)104171</identifier>
+				<lastname>Jović</lastname>
+				<middlename>Zvonimir</middlename>
+				<firstname>Milan</firstname>
+				<position>Asistent</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)104173</identifier>
+				<lastname>Bajić</lastname>
+				<firstname>Željko</firstname>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperConference>
+		<identifier>(BISIS)107005</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M33</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>From traditional to containerized system architecture</title>
+		<year>2017</year>
+		<paperType>Саопштење са скупа штампано у целини</paperType>
+		<conference>
+			<identifier>(BISIS)107003</identifier>
+			<name>International Conference of Numerical Analysis and Applied Mathematics, 7th Symposium on Computer Languages, Implementations and Tools</name>
+			<place>Thessaloniki</place>
+			<country>Greece</country>
+			<year>2017</year>
+			<number>7</number>
+		</conference>
+		<proceedings>
+			<identifier>(BISIS)107004</identifier>
+			<title>Proceeding of the “SCLIT 2017: 7th Symposium on Computer Languages, Implementations and Tools”</title>
+			<year>2017</year>
+		</proceedings>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)103465</identifier>
+				<lastname>Milošević</lastname>
+				<middlename>Branislav</middlename>
+				<firstname>Nemanja</firstname>
+				<position>Asistent</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)791</identifier>
+				<apvnt>1269</apvnt>
+				<lastname>Racković</lastname>
+				<firstname>Miloš</firstname>
+				<position>Redovni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperConference>
+	<paperJournal>
+		<identifier>(BISIS)16804</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Multitarget/multiprotocol client application for search and retrieval of bibliographic records</title>
+		<year>2012</year>
+		<startPage>351</startPage>
+		<endPage>366</endPage>
+		<volume>30</volume>
+		<number>3</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)3035</identifier>
+			<title>Electronic Library</title>
+			<issn>0264-0473</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)286</identifier>
+				<lastname>Zarić</lastname>
+				<firstname>Miroslav</firstname>
+				<position>Docent</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)5566</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Retrieval of bibliographic records using Apache Lucene</title>
+		<year>2010</year>
+		<startPage>525</startPage>
+		<endPage>539</endPage>
+		<volume>28</volume>
+		<number>4</number>
+		<doi>10.1108/02640471011065355</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)3035</identifier>
+			<title>Electronic Library</title>
+			<issn>0264-0473</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)36</identifier>
+				<lastname>Milosavljević</lastname>
+				<firstname>Branko</firstname>
+				<position>Vаnredni profesor</position>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)1124</identifier>
+				<apvnt>1305</apvnt>
+				<lastname>Surla</lastname>
+				<middlename>Ilija</middlename>
+				<firstname>Dušan</firstname>
+				<position>Profesor emeritus</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)6270</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M52</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Servis bibliotečkog softverskog sistema BISIS za mobilne uređaje</title>
+		<year>2009</year>
+		<startPage>30</startPage>
+		<endPage>35</endPage>
+		<volume>8</volume>
+		<number>32</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)2807</identifier>
+			<title>Часопис за информационе технологије и мултимедијалне системе - Info m</title>
+			<issn>1451-4397</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)6269</identifier>
+				<lastname>Maksimović</lastname>
+				<firstname>Predrag</firstname>
+				<institution></institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)82164</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M52</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>XML in the BISIS Library Management System</title>
+		<year>2011</year>
+		<startPage>131</startPage>
+		<endPage>148</endPage>
+		<volume>41</volume>
+		<number>2</number>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)2853</identifier>
+			<title>Novi Sad Journal of Mathematics - NSJOM</title>
+			<issn>1450-5444</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5514</identifier>
+				<apvnt>3115</apvnt>
+				<lastname>Dimić Surla</lastname>
+				<firstname>Bojana</firstname>
+				<position>Docent</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)100334</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>Inventory of a library collection using Android application</title>
+		<year>2016</year>
+		<startPage>856</startPage>
+		<endPage>868</endPage>
+		<volume>34</volume>
+		<number>5</number>
+		<doi>10.1108/EL-08-2015-0150</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)3035</identifier>
+			<title>Electronic Library</title>
+			<issn>0264-0473</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)100333</identifier>
+				<lastname>Kumar Verma</lastname>
+				<firstname>Binay</firstname>
+				<institution></institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+	<paperJournal>
+		<identifier>(BISIS)114799</identifier>
+		<evaluation>
+			<commission>DMI-PMF</commission>
+			<type>M22</type>
+			<sciencesGroup>Природно-математичке и медицинске науке</sciencesGroup>
+			<scientificField>Математика и информатика</scientificField>
+		</evaluation>
+		<title>RealForAll: Real-time System for Automatic Detection of Airborne Pollen</title>
+		<year>2020</year>
+		<doi>10.1080/17517575.2020.1793391</doi>
+		<paperType>Научни рад</paperType>
+		<journal>
+			<identifier>(BISIS)36715</identifier>
+			<title>Enterprise Information Systems</title>
+			<issn>1751-7575</issn>
+		</journal>
+		<authors>
+			<researcher>
+				<identifier>(BISIS)5556</identifier>
+				<apvnt>3871</apvnt>
+				<lastname>Tešendić</lastname>
+				<middlename>Drago</middlename>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2402</identifier>
+				<apvnt>2917</apvnt>
+				<lastname>Boberić-Krstićev</lastname>
+				<firstname>Danijela</firstname>
+				<position>Vanredni profesor</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)114798</identifier>
+				<lastname>Predrag</lastname>
+				<firstname>Matavulj</firstname>
+				<institution></institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)101840</identifier>
+				<lastname>Brdar</lastname>
+				<firstname>Sanja</firstname>
+				<institution></institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)67460</identifier>
+				<lastname>Panić</lastname>
+				<firstname>Marko</firstname>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)2390</identifier>
+				<lastname>Minić</lastname>
+				<firstname>Vladan</firstname>
+				<institution>Fakultet tehničkih nauka u Novom Sadu</institution>
+			</researcher>
+			<researcher>
+				<identifier>(BISIS)973</identifier>
+				<apvnt>2899</apvnt>
+				<lastname>Šikoparija</lastname>
+				<firstname>Branko</firstname>
+				<position>Naučni - saradnik</position>
+				<institution>Prirodno-matematički fakultet u Novom Sadu</institution>
+			</researcher>
+		</authors>
+	</paperJournal>
+</cris_results>
